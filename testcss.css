@@ -1,0 +1,30 @@
+.carousel-caption{
+  position: absolute;
+  left: 0;
+  width: 50%;
+  top:2%;
+  margin-left: 10%;
+  text-align: left;
+  color: red;
+}
+.carousel-caption h2{
+  font-size: 3em;
+
+}
+
+.btn-outline-secondary{
+  color:black;
+  background-image: none;
+  background-color: white;
+  border-color: whitesmoke;
+  border-radius: 30px;
+  border-color: black;
+}
+.container{
+  margin-left: 10%;
+  margin-top:10%;
+  margin-bottom: 30px;
+}
+.card{
+  margin-left: 10%;
+}
